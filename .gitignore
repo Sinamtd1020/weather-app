@@ -1,0 +1,25 @@
+# Android / Gradle
+.gradle/
+.kotlin/
+build/
+*/build/
+local.properties
+.cxx/
+.externalNativeBuild/
+captures/
+
+# Android Studio
+.idea/
+*.iml
+
+# Backend
+Backend/node_modules/
+Backend/.env
+
+# Environment / secrets
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
